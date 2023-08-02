@@ -1,12 +1,44 @@
+.carousel-inner {
+    border-top: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-bottom: 1px;
+    border-color: #2c2727;
+    border-style: solid;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.sosyaltwt{
+    color: white;
+}
+.sosyaltwt:hover{
+    color: rgb(92, 92, 232);
+}
 
+.sosyalytb{
+    color: white;
+}
+.sosyalytb:hover{
+    color: rgb(176, 16, 16);
+}
 
+.sosyalea{
+    color: white;
+}
+.sosyalea:hover{
+    color: rgb(115, 147, 161);
+}
 
+.footer{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: #343a40;
 
-.header{
-    margin:0;
-    padding: 0%;
-    }
-
-    .box{
-        margin-top: 5%;
-    }
+}
+.footer h3{
+    color: aliceblue;
+    text-decoration: underline;
+}
+.footer a {
+    margin: 5px;
+}
