@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    min-width: 1000px;
+    min-height: 1000px;
+    background: #fff;
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 0 35px 55px rgb(176, 165, 165);
+    padding-right: 0;
+    padding-left: 0;
+}
+.container .sağ{
+    position: relative;
+    background: #b8a9a9;
+    padding: 40px;
+}
+.alt {
+    background-color: #b8a9a9;
+    
+}

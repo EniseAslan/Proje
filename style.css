@@ -52,11 +52,3 @@
 .footer a {
     margin: 5px;
 }
-/* Kırkpınar */
-.Kirkpinar{
-   
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6),url(Progeimg/kirkpinaredirne.jpg));
-    background-position: center;
-    background-size: cover;
-    background-attachment:fixed ;
-}
